@@ -1,0 +1,13 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+h1 {
+  letter-spacing: 2px;
+}
+
+#contacto {
+  background-color: #4099ec;
+  padding: 2rem;
+  border-radius: 10px;
+}
